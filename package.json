@@ -1,0 +1,25 @@
+{
+  "name": "firebase-middleware",
+  "version": "0.0.1",
+  "description": "Firebase package to use with Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirAus/firebase-middleware.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "firebase"
+  ],
+  "author": "Vladimir Roudakov <@TesDev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VladimirAus/firebase-middleware/issues"
+  },
+  "homepage": "https://github.com/VladimirAus/firebase-middleware#readme"
+}
